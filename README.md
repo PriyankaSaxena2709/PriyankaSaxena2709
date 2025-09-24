@@ -1,5 +1,5 @@
 
-## Hi there 👋 I'm Priyanka
+## Hi there 👋 I'm Priyanka 👧🏽
 
 ### ⚡Full-Stack Developer- designing experiences, building systems, and always learning.
 
@@ -17,6 +17,7 @@
 💻 Currently learning **Next.js and Postgre SQL**
 
 🤝 Open to collaboration on open-source projects and hackathons  
+
 
 ## My Tech Stack
 <p align="center">
@@ -37,7 +38,18 @@
   <img src="https://github-readme-stats.vercel.app/api?username=PriyankaSaxena2709&hide=contribs,prs" width="350" />
 </p>
 
+---
 
+## 🌐 Let's Connect 
+
+I'm always open to new opportunities and collaborations. Feel free to reach out!
+
+-  Email: [saxenap964@gmail.com](mailto:your-saxenap964@gmail.com)
+-  Linkedin: [Priyanka Saxena](https://www.linkedin.com/in/priyanka-saxena-developer/)
+
+---
+
+😁Thanks for scrolling this far-may your commits always be bug-free.
           
 
           
