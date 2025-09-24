@@ -1,7 +1,7 @@
 
 ## Hi there 👋 I'm Priyanka
 
-**⚡Full-Stack Developer- designing experiences, building systems, and always learning.**
+### ⚡Full-Stack Developer- designing experiences, building systems, and always learning.
 
 ## About Me
 🧑‍💻 Full Stack Developer, passionate about building scalable and user friendly applications
