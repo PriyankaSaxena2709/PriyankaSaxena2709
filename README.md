@@ -27,9 +27,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/PriyankaSaxena2709/PriyankaSaxena2709/refs/heads/main/icons8-express-js%20(1).svg?raw=true" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" width="60" height="60" />
-          
-  
+  <img src="https://raw.githubusercontent.com/PriyankaSaxena2709/PriyankaSaxena2709/refs/heads/main/socket-io-svgrepo-com.svg?raw=true" width="60" height="60" />
 </p>
+
+## Github Stats
+
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyankaSaxena2709&layout=compact&theme=default" width="450" height="300" />
+
+[![Priyanka's GitHub stats](https://github-readme-stats.vercel.app/api?username=PriyankaSaxena2709&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
+
           
 
           
