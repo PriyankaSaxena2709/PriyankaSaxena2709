@@ -30,8 +30,7 @@
   <img src="https://raw.githubusercontent.com/PriyankaSaxena2709/PriyankaSaxena2709/refs/heads/main/socket-io-svgrepo-com.svg?raw=true" width="60" height="60" />
 </p>
 
-## Github Stats
-
+---
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyankaSaxena2709&layout=compact&theme=default" width="450" height="300" />
 
