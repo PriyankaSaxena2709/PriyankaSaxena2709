@@ -17,3 +17,21 @@
 💻 Currently learning **Next.js and Postgre SQL**
 
 🤝 Open to collaboration on open-source projects and hackathons  
+
+## My Tech Stack
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="90" height="90" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="50" height="50" />
+  
+  
+
+  
+          
+          
+          
+</p>
+          
+
+          
+
