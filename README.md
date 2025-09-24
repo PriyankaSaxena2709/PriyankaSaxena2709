@@ -31,10 +31,12 @@
 </p>
 
 ---
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyankaSaxena2709&layout=compact&theme=default" width="350"/> &nbsp;&nbsp;
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=PriyankaSaxena2709&hide=contribs,prs" width="350" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyankaSaxena2709&layout=compact&theme=default" width="400"/>
-
-[![Priyanka's GitHub stats](https://github-readme-stats.vercel.app/api?username=PriyankaSaxena2709&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
 
           
 
