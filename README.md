@@ -4,7 +4,7 @@
 ### ⚡Full-Stack Developer- designing experiences, building systems, and always learning.
 
 ## About Me
-🧑‍💻 Full Stack Developer, passionate about building scalable and user friendly applications
+💻 Full Stack Developer, passionate about building scalable and user friendly applications
 
 ✅ Expertise in building dynamic, real-time features using Socket.io
 
