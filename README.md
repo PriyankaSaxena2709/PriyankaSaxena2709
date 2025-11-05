@@ -16,7 +16,7 @@
 
 - 🪖 Military Logisitics System (RBAC)
 
-😄 Many more great things are coming 
+- 😄 Many more great things are coming 
 
 
 💻 Currently learning **Next.js and Postgre SQL**
