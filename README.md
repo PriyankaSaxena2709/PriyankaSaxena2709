@@ -14,7 +14,7 @@
   
 - 🐾 VETLY (Online Pet Consulation Platform) (MERN + Websockets)
 
-- 🪖 MILITARY LOGISTICS MANAGEMENT SYSTEM (RBAC) 
+- 🪖 Military Logisitics System (RBAC) 
 
 💻 Currently learning **Next.js and Postgre SQL**
 
